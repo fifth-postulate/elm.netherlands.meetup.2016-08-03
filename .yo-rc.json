@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Elm from the trenches",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "fifth-postulate",
+    "githubRepository": "elm.netherlands.meetup.2016-08-03"
+  }
+}
